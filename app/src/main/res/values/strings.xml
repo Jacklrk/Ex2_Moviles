@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica2</string>
+    <string-array name="roles_array">
+        <item>Usuario</item>
+        <item>Administrador</item>
+    </string-array>
+
+</resources>
